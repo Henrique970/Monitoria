@@ -1,0 +1,10 @@
+a = int(input('Informe um número: '))
+b = int(input('Informe outro número: '))
+so = a + b
+su = a - b
+mu = a * b
+di = a / b
+print(a,'+',b,'=',so)
+print(a,'-',b,'=',su)
+print(a,'*',b,'=',mu)
+print(a,'/',b,'=',di)
